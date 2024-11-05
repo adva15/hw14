@@ -1,3 +1,4 @@
+#1
 #a
 from audioop import avgpp
 from msilib import make_id
